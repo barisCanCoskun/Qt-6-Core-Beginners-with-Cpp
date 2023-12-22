@@ -1,0 +1,10 @@
+# ninja log v5
+0	235	1696065465349417883	14qt6-QObject-ParentChild_autogen/timestamp	f562669574c54da9
+0	235	1696065465349417883	14qt6-QObject-ParentChild_autogen/mocs_compilation.cpp	f562669574c54da9
+0	235	1696065465349417883	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Bryan/build-14qt6-QObject-ParentChild-Qt_6_5_2_for_macOS-Debug/14qt6-QObject-ParentChild_autogen/timestamp	f562669574c54da9
+0	235	1696065465349417883	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Bryan/build-14qt6-QObject-ParentChild-Qt_6_5_2_for_macOS-Debug/14qt6-QObject-ParentChild_autogen/mocs_compilation.cpp	f562669574c54da9
+235	686	1696065465800257922	CMakeFiles/14qt6-QObject-ParentChild.dir/animal.cpp.o	4c610400a1dcc37f
+235	688	1696065465799589253	CMakeFiles/14qt6-QObject-ParentChild.dir/main.cpp.o	ee5b4fbdead0666e
+235	688	1696065465800259130	CMakeFiles/14qt6-QObject-ParentChild.dir/test.cpp.o	4aaeb4586ea6a168
+235	689	1696065465803123720	CMakeFiles/14qt6-QObject-ParentChild.dir/14qt6-QObject-ParentChild_autogen/mocs_compilation.cpp.o	4499749818d9286a
+689	719	1696065465838217256	14qt6-QObject-ParentChild	945af8dc6a97407

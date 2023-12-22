@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8e3c283d4f2122a94f5a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "01qt6-Variables",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01qt6-Variables::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01qt6-Variables-Debug-6661ded7441819de7882.json",
+					"name" : "01qt6-Variables",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01qt6-Variables_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01qt6-Variables_autogen-Debug-3e62642e5f9b9f251e09.json",
+					"name" : "01qt6-Variables_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01qt6-Variables_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01qt6-Variables_autogen_timestamp_deps-Debug-10c5316c519fdcc8260b.json",
+					"name" : "01qt6-Variables_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Bryan/build-01qt6-Variables-Qt_6_5_2_for_macOS-Debug",
+		"source" : "/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Bryan/01qt6-Variables"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

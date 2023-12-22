@@ -1,0 +1,8 @@
+# ninja log v5
+0	33	1696065438861172779	05qt6-ReturningValues-MostImported_autogen/timestamp	990a57d390be4c56
+0	33	1696065438861172779	05qt6-ReturningValues-MostImported_autogen/mocs_compilation.cpp	990a57d390be4c56
+0	33	1696065438861172779	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Bryan/build-05qt6-ReturningValues-MostImported-Qt_6_5_2_for_macOS-Debug/05qt6-ReturningValues-MostImported_autogen/timestamp	990a57d390be4c56
+0	33	1696065438861172779	/Users/mac/Desktop/BarisCanCoskun/Udemy/Qt-Bryan/build-05qt6-ReturningValues-MostImported-Qt_6_5_2_for_macOS-Debug/05qt6-ReturningValues-MostImported_autogen/mocs_compilation.cpp	990a57d390be4c56
+34	48	1696065438879727829	CMakeFiles/05qt6-ReturningValues-MostImported.dir/05qt6-ReturningValues-MostImported_autogen/mocs_compilation.cpp.o	ed37f8148d6e491f
+34	425	1696065439254029340	CMakeFiles/05qt6-ReturningValues-MostImported.dir/main.cpp.o	1442beb531cb927
+427	452	1696065439282939876	05qt6-ReturningValues-MostImported	f4c733996e1aaaf8
